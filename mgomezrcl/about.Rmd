@@ -1,0 +1,10 @@
+---
+title: "CV"
+description: 
+  Here you can find my Curriculum Vitae in [english](CVenglish.pdf) and [spanish](CVspanish.pdf).
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

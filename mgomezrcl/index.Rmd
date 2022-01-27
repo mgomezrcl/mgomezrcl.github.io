@@ -1,0 +1,16 @@
+---
+title: "Marcelo Gómez R."
+image: "frontpage2.jpg"
+description: |
+  Welcome to the website. I hope you enjoy it!
+output:
+  postcards::jolla  
+site: distill::distill_website
+---
+I'm a student of Msc. in Economics at University of Chile.
+
+
+
+
+
+
