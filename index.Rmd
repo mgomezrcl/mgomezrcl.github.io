@@ -7,7 +7,7 @@ output:
   postcards::jolla  
 site: distill::distill_website
 ---
-I'm a student of Msc. in Economics at University of Chile.
+I'm a student of the Msc. in Economics at University of Chile.
 
 
 
